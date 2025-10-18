@@ -2,7 +2,7 @@
   "name": "travel-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/REACT-TMS/",
+  "homepage": "/S104_TMS_FE/",
   "type": "module",
   "scripts": {
     "dev": "vite",
